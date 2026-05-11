@@ -1,8 +1,20 @@
-import streamlit as st  # Import streamlit library
+# Import streamlit library
+import streamlit as st  
 
-st.title("My Firast Streamlit App")  # Display app title
-st.header("This is a header")  # Display header text
-st.subheader("This is a subheader")  # Display subheader text
-st.text("This is a text")  # Display plain text
-st.markdown("This is a markdown")  # Display markdown formatted text
-st.caption("This is a caption")  # Display caption text
+# Display app title
+st.title("My Firast Streamlit App")  
+
+# Display header text
+st.header("This is a header")  
+
+# Display subheader text
+st.subheader("This is a subheader")  
+
+# Display plain text
+st.text("This is a text")  
+
+# Display markdown formatted text
+st.markdown("This is a markdown")  
+
+# Display caption text
+st.caption("This is a caption")  

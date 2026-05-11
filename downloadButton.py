@@ -18,3 +18,4 @@ with open('image.jpg', 'rb') as file:
         file_name = file_name,      # name of the file to be downloaded
         mime = 'jpg/png'            # MIME type of the file to be downloaded
     )
+
