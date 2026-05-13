@@ -8,3 +8,4 @@ st.radio('Choose your course',
           'Machine Learning',
           'Deep Learning',
           ], index= None)
+
